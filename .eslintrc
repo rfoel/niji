@@ -23,6 +23,7 @@
   },
   "rules": {
     "arrow-parens": 0,
+    "object-curly-newline": "off",
     "semi": [2, "never"],
     "comma-dangle": [2, "always-multiline"],
     "max-len": 0,

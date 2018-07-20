@@ -3,8 +3,8 @@ import { reversePalette } from 'styled-theme/composer'
 const theme = {}
 
 theme.palette = {
-  primary: ['#000000', '#111111', '#222222'],
-  white: ['#fffff', '#eeeeee', '#dddddd'],
+  primary: ['#000'],
+  secondary: ['#fff'],
 }
 
 theme.reversePalette = reversePalette(theme.palette)
